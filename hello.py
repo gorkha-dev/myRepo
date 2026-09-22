@@ -9,3 +9,4 @@ yes = "confirmation"
 no = "denial"
 print (yes,no)
 print("this is the missing line of my previous code")
+print("v10 is gettin worser")
