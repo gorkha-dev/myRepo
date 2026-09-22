@@ -7,3 +7,4 @@ print("my name is", name, " i am", age, "years old")
 print(f"hello {name}")
 yes = "confirmation"
 no = "denial"
+print (yes,no)
