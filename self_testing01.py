@@ -1,0 +1,1 @@
+name = input(f"what is your name ?")
